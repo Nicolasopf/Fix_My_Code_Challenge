@@ -4,9 +4,6 @@
 
 class square():
     ''' please put comments '''
-    width = 0
-    height = 0
-
     def __init__(self, *args, **kwargs):
         ''' more comments'''
         self.width = 0
