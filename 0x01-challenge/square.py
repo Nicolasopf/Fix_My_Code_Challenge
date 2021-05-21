@@ -1,8 +1,9 @@
 #!/usr/bin/python3
+''' easy solution '''
 
 
 class square():
-
+    ''' please put comments '''
     width = 0
     height = 0
 
